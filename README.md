@@ -35,7 +35,7 @@ A startup **CloudData** está implantando sua nova aplicação em um servidor de
 
 A transição do modelo não preempitivo **FCFS** para o modelo preempitivo **Round-Robin** garante uma experiência fluida para os usuários da interface web, mantendo o progresso consistente das tarefas em lote sem o risco de *starvation*.
 
-[representação visual](Canva-clound-data.jpg)
+![representação visual](Canva-clound-data.jpg)
 
 ## Referências
 
