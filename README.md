@@ -40,3 +40,5 @@ A transição do modelo não preempitivo **FCFS** para o modelo preempitivo **Ro
 ## Referências
 
 PROF. SANTIAGO - PROGRAMAÇÃO E CIÊNCIA. **Me Salva Sistemas Operacionais: Motivação para Utilização de Escalonamento de Processos**. YouTube, 12 nov. 2022. Disponível em: <https://www.youtube.com/watch?v=BUnnIzc6_As>. Acesso em: 1 out. 2026.
+
+AMARAL, Maxwell Anderson Ielpo do; SANTIAGO, Estevam Pessoa do Nascimento; SANTOS, Josemary Marcionila Freire dos. Sistema Simulador Escalonamento de Processos em Sistemas Operacionais. Principia, João Pessoa, n. 13, p. 45-48, abr. 2006.
